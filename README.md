@@ -1,4 +1,4 @@
-UIUC CS-125-Introduction to Computer Science
+# UIUC CS 125: Introduction to Computer Science (Self-Study)
 
 I enrolled in 'UIUC CS 125: Introduction to Computer Science' following a recommendation from a professional associate within the industry. I independently sourced various online materials to facilitate my study of the course. Attached are the study materials I compiled, which underscore my thorough engagement with the curriculum.
 
